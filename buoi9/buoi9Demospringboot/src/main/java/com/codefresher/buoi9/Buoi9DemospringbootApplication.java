@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Buoi9DemospringbootApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Buoi9DemospringbootApplication.class, args);
+		SpringApplication.run(Buoi9DemospringbootApplication.class, args); // check
 	}
 
 }
